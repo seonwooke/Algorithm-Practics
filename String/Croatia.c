@@ -11,6 +11,8 @@
 */
 int main ()
 {
+	char word[100] ;
+	scanf ("%s", word) ;
 
 	return 0 ;
 }
